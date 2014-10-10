@@ -45,3 +45,6 @@ nosetests.xml
 
 # Python
 venv
+
+# Specific
+data/household_power_consumption.txt
